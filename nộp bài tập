@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BLog</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style2.css">
+
+</head>
+<body>
+	<h1 align="Center">Các sản phẩm sáp vuốt tóc </h1>
+	<img src="img/Claywax.jpg " >
+	<br/>
+	<a href="claywax.html">claywax</a>
+
+	<br/>
+	<img src="img/londo.jpg" ;></br>
+	<a href="londo.html">Lợn Đỏ</a>
+	<br/>
+	<img src="img/lonhong.jpg"></br>
+	<a href="lonhong.html">Lợn Hồng</a>
+	<br/>
+	<img src="img/lonxanhla.jpg"></br>
+	<a href="lonxanhla.html">Lợn xanh lá</a>
+	<br/>
+	<img src="img/modify.jpg"></br>
+	<br/>
+	
+	
+	
+	
+
+	<a href="modify.html">Hanzdefuko Modify</a>
+	<br/>
+	<img src="img/odouds1.jpg">
+	<br/>
+	<a href="odouds1.html">pomade odouds1</a>
+	<br/>
+	<img src="img/odouds2.jpg">
+	<br/>
+	<a href="odouds2.html">Odouds2</a>
+	<br/>
+	<img src="img/quicksand.jpg" height="200" >
+	<br/>
+	<a href="quicksand.html">quicksand</a>
+	<br/>
+	<img src="img/sponge.jpg">
+	<br/>
+		<a href="sponge.html">sponge</a>
+		<br/>
+	<img src="img/lonxanh.jpg">
+
+	<br/>
+	<a href="lonxanh.html">lonxanh</a>
+
+	
+
+
+	
+
+
+	
+
+</body>
+</html>
